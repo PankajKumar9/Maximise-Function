@@ -27,11 +27,11 @@ For each test case, print a single line containing one integer ― the maximum v
 3  
 3 3 3  
 5  
-2 2 2 2 5  
+2 2 2 2 5
 ### Example Output
-10
-0
-6
+10  
+0  
+6  
 ### Explanation
 **Example case 1:** The value of the expression is always 10. For example, let x=1, y=2 and z=3, then it is |2−7|+|7−5|+|5−2|=5+2+3=10.
 
