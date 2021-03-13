@@ -21,13 +21,13 @@ For each test case, print a single line containing one integer ― the maximum v
 
 ## Example
 ### Example Input
-3
-3
-2 7 5
-3
-3 3 3
-5
-2 2 2 2 5
+3  
+3  
+2 7 5  
+3  
+3 3 3  
+5  
+2 2 2 2 5  
 ### Example Output
 10
 0
